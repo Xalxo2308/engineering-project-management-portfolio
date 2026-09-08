@@ -19,23 +19,36 @@ A project-management case study involving the planning and delivery of a four-be
 The project was completed as part of **UTS 49002 – Managing Projects**.
 
 ---
+## At a Glance
 
-## Project Management Focus
+**Project:** Residential Construction Project  
+**Unit:** UTS 49002 – Managing Projects  
+**Project Environment:** Team-based residential construction planning  
+**My Role:** Quality Assurance  
+**Project Focus:** Planning, scope, scheduling, risk, resources, cost, quality, stakeholders, communication and project controls
 
-The portfolio demonstrates practical application of:
+### My Key Contribution
 
-* Project planning
-* Scope management
-* Project scheduling
-* Risk management
-* Resource and cost planning
-* Quality assurance
-* Stakeholder management
-* Team communication
-* Project governance
-* Document control and version control
-* Project deliverable integration
-* Lessons learned
+My primary responsibility was Quality Assurance. I reviewed project deliverables for accuracy, consistency, formatting, referencing, grammar, version control and integration, including reviewing Gantt Chart duration information.
+
+The project also provided exposure to scheduling, risk analysis, resource management, procurement, stakeholder management and team communication.
+
+## Project Management Areas
+
+| Area | Evidence |
+|---|---|
+| Project Planning | [Project Overview](project-overview.md) |
+| My Contribution | [My Contribution](my-contribution.md) |
+| Quality Assurance | [Quality Assurance](quality-assurance.md) |
+| Scheduling | [Scheduling](scheduling.md) |
+| Risk Management | [Risk Management](risk-management.md) |
+| Governance | [Project Governance](project-governance.md) |
+| Stakeholders & Communication | [Stakeholder & Communication Analysis](evidence/stakeholder-and-communication-analysis.md) |
+| Change Management | [Change & Configuration Management](evidence/change-and-configuration-management.md) |
+| Project Controls | [Project Performance & Controls](evidence/project-performance-and-controls.md) |
+| PM Tools & Methods | [Project Management Tools & Methods](evidence/project-management-tools-and-methods.md) |
+| Lessons Learned | [Lessons Learned](lessons-learned.md) |
+| Professional Transferability | [Professional Transferability](evidence/professional-transferability.md) |
 
 ---
 
@@ -161,3 +174,9 @@ It does not reproduce the original university assignment or contain confidential
 ## Project
 
 **[View the Residential Construction Project →](./01-residential-construction-project/)**
+
+## Portfolio Note
+
+This repository presents an academic project completed as part of UTS 49002 – Managing Projects.
+
+The documentation is presented as a professional portfolio summary and analysis. It distinguishes my individual contribution from team-level project deliverables and does not represent professional construction-project management experience.
